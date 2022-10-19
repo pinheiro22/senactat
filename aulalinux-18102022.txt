@@ -1,0 +1,25 @@
+#01_MintUpdate
+    a) Atualizar  --> apt   --> sources.list
+	b) Repositórios --> apt --> sources.list
+	   (=Diretório)
+	c) PESQUISAR: O QUE É PPA´s
+	d) Instalar Atualização  --> apt
+	
+#02_Intalação dos Convidados do VirtuslBox
+    a) Dispositivos 
+	          Inserir imagem do CD dos Convidados 
+			  
+#03_Atualizando via Linha de Comando
+    PESQUISAR: O QUE É BASH?
+	           O QUE É SHELL?
+			   O QUE É APT-GET?
+			   O QUE É SUDO?
+			   
+	sudo apt update  --> MintUpdate Atualizar
+	sudo apt upgrade  --> MintUpgrade  Instalar
+	sudo apt full-upgrade
+	sudo apt dist-upgrade
+	sudo apt autoremove
+	sudo apt autoclean
+	sudo apt clean
+	history
