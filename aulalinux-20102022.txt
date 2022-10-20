@@ -1,0 +1,13 @@
+Terceira Etapa: Instalar Software (linux)
+                Microsoft - .EXE ou MSI
+                ----------------------------
+                Linux Mint: 15 - DEB
+				
+				Google Chrome - 64bits .deb
+                Opera Linux		
+
+                Gdebi --> Dependências	
+                Central de Aplicativos	
+                Terminal - apt	
+                sudo apt install	
+                sudo apt install git vim psensor
