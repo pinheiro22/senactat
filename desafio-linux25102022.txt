@@ -5,15 +5,15 @@
 #TEMPO POIS VAI TRAVAR A MÁQUINA VIRTUAL.
 
 #01_ Instalação dos Navegadores (Recomendo via Gdebi)
-	_a - Google Chrome;
-	_b - Opera;
-	_c - Microsoft Edge;
-	_d - Vivaldi;
-	_e - Tor;
-	_f - Brave.
+	_a - Google Chrome;- ok
+	_b - Opera; - ok
+	_c - Microsoft Edge; - ok
+	_d - Vivaldi; - ok
+	_e - Tor; - ok
+	_f - Brave. - ok
 	
 #02_ Instalação do suporte ao TTF (TrueType Fonts)
-	a_ Ttf-mscorefonts (Gerenciador de Aplicativos)
+	a_ Ttf-mscorefonts (Gerenciador de Aplicativos) - ok
 
 #03_ Instalação dos Pacote Office
 	_a - WPS Office for Linux (Recomendo via Gdebi)
