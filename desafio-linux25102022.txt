@@ -17,8 +17,8 @@
 
 #03_ Instalação dos Pacote Office
 	_a - WPS Office for Linux (Recomendo via Gdebi) - ok
-	_c - FreeOffice for Linux (Recomendo via Gdebi)
-	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
+	_c - FreeOffice for Linux (Recomendo via Gdebi) - ok
+	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem) - ok
 	_e - Microsoft Teams for Linux (Recomendo via Gdebi) - ok
 	_f - Skype for Linux (Recomendo via Gdebi) - ok
 	_g - KolourPaint (Gerenciador de Aplicativo) - ok
@@ -32,4 +32,4 @@
 #05_ Instalação de Reprodutores de Música Editor de Áudio e Vídeo
 	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo) - ok
 	_b - Audacity (Gerenciador de Aplicativo) - ok
-	_c - Kdenlive (Recomendo AppImagem)
+	_c - Kdenlive (Recomendo AppImagem) - ok
