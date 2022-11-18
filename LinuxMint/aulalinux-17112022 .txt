@@ -1,0 +1,21 @@
+#Comando de mover (Renomear)
+mv ORIGEM DESTINO
+
+#Comando de Copiar
+cp -v ORIGEM DESTINO 
+
+#Comado de Imprimir mensagem na Tela
+echo SENAC Tatuapé
+echo SENAC Tatuapé > SENAC.txt
+
+#Comando para listar o conteúdo do arquivo
+cat -n
+cat -n /etc/services
+
+#Comando para listar o conteúdo do arquivo,
+#mais eu posso escolher as linhas 
+head -n20 /etc/service  (Começo do arquivo)
+tail -n20 /etc/service  (final do arquivo)
+
+#Desafio do Prof. Ramos (O melhor!!!!!)
+cat -n /etc/services | head -n200 | tail -n101  
