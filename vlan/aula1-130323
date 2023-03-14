@@ -1,0 +1,36 @@
+Switch> enable
+Switch#
+
+...
+
+Switch# conf t
+Switch(config)# hostname SWFeliz
+SWFeliz(config)#
+
+
+...
+
+Switch# conf t
+Switch(config)# vlan 2
+Switch(config-vlan)#name NOMEdaVLAN
+
+...
+
+Switch(config-vlan)#end   ou Router(config-vlan)# "CTRL+Z" ou Router(config-vlan)# exit
+
+...
+
+Switch# Show Vlan Brief
+
+...
+
+Switch(config)#interface f0/1
+Switch(config-if)#switchport access vlan2
+                                        ^
+...
+
+Switch# Show RUN
+
+Switch#WR
+
+...
